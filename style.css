@@ -272,4 +272,8 @@ a {
     #hero .left .buttons {
         margin-bottom: 3rem;
     }
+    #hero .left .buttons .play-animation-btn {
+       
+        left: 8%;
+    }
 }
